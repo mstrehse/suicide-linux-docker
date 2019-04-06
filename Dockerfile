@@ -1,7 +1,4 @@
-FROM debian:stretch
-
-RUN apt-get update
-RUN apt-get install -y software-properties-common
+FROM archlinux/base
 
 COPY bash.bashrc /etc/
 
