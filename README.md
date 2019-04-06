@@ -18,4 +18,4 @@ With a single command, an instance of _Suicide Stretch_ will be downloaded and b
 Running
 -------
 
-    docker run --rm -it -t mstrehse/suicide-linux
+    docker run --rm -it -t mstrehse/suicide-linux-arch
