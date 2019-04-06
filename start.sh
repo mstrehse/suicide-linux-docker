@@ -1,1 +1,1 @@
-docker run --rm -it -t suicidelinux
+docker run --rm -it mstrehse/suicide-linux
